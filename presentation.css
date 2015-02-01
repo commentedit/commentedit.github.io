@@ -1,0 +1,124 @@
+body{
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font-family: "Mento_Regular", sans-serif;
+	font-size: 20px;
+	background: url(../images/fond-blanc.png) repeat fixed;
+	text-align: justify;
+}
+
+#page {
+	padding: 20px 2%;
+	width: 60%;
+}
+	
+div#logo img{
+	margin-bottom: 20px;
+	width:50%;
+}
+
+div#encadre{
+	float:left;
+	width:30%;
+}
+
+div#baniere{
+}
+
+article {
+	color: #1d1d1b;
+	clear: both;
+}
+	
+article h1{
+	color: #333333;
+	display:block;
+	padding: 10px 16px 4px 16px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	text-transform : uppercase;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	font-size: 28px;
+	background-color: rgb(150,230,150);
+	color: #333333;
+	display:block;
+}
+
+table {
+	font-size: 16px;
+}
+
+article p {
+	padding: 0 20px 3px 20px;
+}
+
+article ol, article ul {
+	font-family: 'Trebuchet MS';
+	font-size: 28px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 28px;
+}
+
+strong {
+	font-size:22px;
+	color: rgb(20,180,20);
+}
+
+.menuitem{
+	font-size: 20px;
+	margin-right: 30px;
+	font-weight: bold;
+}
+
+.menuitem a {
+	color: #1d1d1b;
+	text-decoration:none; 
+}
+
+.separator{
+	font-weight: bold;
+	margin-right:10px;
+	color: rgb(63,199,63);
+}
+
+.menuitem a:hover {
+	color: rgb(63,199,63); 	
+}
+
+article blockquote {
+	font-size: 20px;
+}
+
+#isso-thread {
+	position: fixed;
+	top: 10px;
+	bottom: 0;
+	right: 2%;
+	width: 30%;
+	padding: 5px 0;
+}
+	
+tuto{
+	left:100px;
+}
+
+	
+.block{
+	font-family: arial;
+	font-size: 16px;
+	background-color: rgb(251,251,251);
+	padding: 5px 5px;
+	margin: 15px 15px;
+	border: 3px solid grey;
+}
+	
+
+#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	
+.f_left {
+	float:left;
+}
+	
