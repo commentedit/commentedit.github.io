@@ -7,6 +7,10 @@ body{
 	text-align: justify;
 }
 
+table {
+	text-align: left;
+}
+
 #page {
 	padding: 20px 2%;
 	width: 60%;
@@ -21,7 +25,15 @@ article {
 	color: #1d1d1b;
 	clear: both;
 }
-	
+
+a {
+	color: #1d1d1b;
+}
+
+a:hover {
+	color: rgb(63,199,63); 	
+}
+
 article h1{
 	color: #333333;
 	display:block;
@@ -70,7 +82,6 @@ em {
 }
 
 .menuitem a {
-	color: #1d1d1b;
 	text-decoration:none; 
 }
 
@@ -78,10 +89,6 @@ em {
 	font-weight: bold;
 	margin-right:10px;
 	color: rgb(63,199,63);
-}
-
-.menuitem a:hover {
-	color: rgb(63,199,63); 	
 }
 
 article blockquote {
